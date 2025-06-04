@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tjay05&theme=black-ice&border_radius=5)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tjay05&theme=black-ice&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tjay05&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Tjay05/Tjay05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
